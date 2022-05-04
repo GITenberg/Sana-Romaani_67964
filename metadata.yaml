@@ -1,0 +1,40 @@
+_repo: Sana-Romaani_67964
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lagus, F. H. B.
+    alias: Lagus, Frithiof Henrik Bernhard
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '33059'
+    url: http://www.gutenberg.org/2009/agents/33059
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, Georg Moritz
+    - Ebers, George Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georg_Ebers
+    - https://de.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2022-05-01'
+identifiers:
+  gutenberg: '67964'
+language: fi
+pgterms:marc905: 20210104010823ebers
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Johanna Kankaanpää and Tapio Riikonen
+publication_note: Finland :Osuuskunta Länsi-Suomi,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sana: Romaani'
+url: http://www.gutenberg.org/ebooks/67964
